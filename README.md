@@ -1,7 +1,7 @@
 # Calculating Class Averages
 
 ## Problem Statement
-Write a function called `calculate_class_averages` that takes a dictionary, `classrooms`, containing student exam scores for different classes. Your function should return a new dictionary where the keys are class names and the values are the average exam scores for that class. After implementing your function, use `pytest` to see if you pass the all the tests. If a classroom has 0 students in it then it should return 0.
+Write a function called `calculate_class_averages` that takes a dictionary, `classrooms`, containing student exam scores for different classes. Your function should return a new dictionary where the keys are class names and the values are the average exam scores for that class. After implementing your function, use `pytest` to see if you pass all the tests. If a classroom has 0 students in it then it should return 0.
 
 ## Example Input
 ```python
